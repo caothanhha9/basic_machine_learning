@@ -1,0 +1,26 @@
+Bạn khỏe không?
+Tôi khỏe
+Còn bạn khỏe không?
+Tôi cũng khỏe
+Bạn ăn cơm chưa?
+Tôi ăn rồi
+Còn bạn ăn cơm chưa?
+Tôi ăn rồi
+Anh khỏe không?
+Anh khỏe
+Anh ăn cơm chưa?
+Tôi ăn rồi
+Chị khỏe không?
+Chị khỏe
+Chị ăn cơm chưa?
+Tôi ăn rồi
+Em khỏe không?
+Em khỏe
+Em ăn cơm chưa?
+Em ăn rồi
+Bạn khỏe không?
+Tôi khỏe
+Còn bạn khỏe không?
+Tôi cũng khỏe
+Anh khỏe không?
+Anh khỏe
